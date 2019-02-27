@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+sourceCompatibility = "1.8"
+
+repositories {
+    mavenCentral()
+}
+
+javadoc {
+    source = "${projectDir}/jdk8"
+
+    title = "Dracula Javadoc Sample"
+
+    options.locale = "en"
+    options.charSet = "UTF-8"
+    options.encoding = "UTF-8"
+    options.bottom = "Dracula Javadoc Sample, Made with Allan Im."
+
+    options.stylesheetFile = new File(projectDir, "dracula-javadoc8.css")
+    options.addStringOption('Xdoclint:none', '-quiet')
+    
+    options.destinationDirectory = new File(projectDir, "/docs/jdk8")
+}
