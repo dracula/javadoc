@@ -6,7 +6,7 @@
 
 [Style Sheet](https://raw.githubusercontent.com/allanim/dracula-javadoc/master/dracula-javadoc8.css)
 
-[Preview](https://allanim.github.io/dracula-javadoc/jdk8/)
+[Preview](https://allanim.github.io/dracula-javadoc/jdk8/index.html)
 
 ## License
 
