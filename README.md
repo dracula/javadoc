@@ -2,6 +2,8 @@
 
 > A dark theme for Javadoc
 
+> It is based on [Dracula Theme](https://draculatheme.com/)
+
 ## Usage
 
 [Style Sheet](https://raw.githubusercontent.com/allanim/dracula-javadoc/master/dracula-javadoc8.css)
