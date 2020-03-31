@@ -1,14 +1,23 @@
-# Dracula for Javadoc
+# Dracula for [Javadoc](https://docs.oracle.com/javase/8/docs/api/)
 
-> A dark theme for Javadoc
+> A dark theme for [Javadoc](https://docs.oracle.com/javase/8/docs/api/).
 
-> It is based on [Dracula Theme](https://draculatheme.com/)
+![Screenshot](./screenshot.png)
 
-## Usage
+[Preview](https://dracula.github.io/javadoc/jdk8/index.html)
 
-[Style Sheet](https://raw.githubusercontent.com/allanim/dracula-javadoc/master/dracula-javadoc8.css)
+## Install
 
-[Preview](https://allanim.github.io/dracula-javadoc/jdk8/index.html)
+All instructions can be found at [draculatheme.com/javadoc](https://draculatheme.com/javadoc).
+
+## Team
+
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+
+| [![Allan Im](https://avatars0.githubusercontent.com/u/1031841?v=3&s=70)](https://github.com/allanim) |
+| ---------------------------------------------------------------------------------------------------- |
+| [Allan Im](https://github.com/allanim)                                                               |
+
 
 ## License
 
