@@ -1,5 +1,9 @@
 ### [Javadoc](https://docs.oracle.com/javase/8/docs/api/)
 
+#### Preview
+
+See [live preview](https://dracula.github.io/javadoc/jdk8/index.html).
+
 #### Install
 
 Download the [stylesheet](https://raw.githubusercontent.com/dracula/javadoc/master/styles/dracula-javadoc8.css)
