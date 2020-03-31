@@ -17,7 +17,7 @@ javadoc {
     options.encoding = "UTF-8"
     options.bottom = "Dracula Javadoc Sample, Made with Allan Im."
 
-    options.stylesheetFile = new File(projectDir, "dracula-javadoc8.css")
+    options.stylesheetFile = new File(projectDir, "styles/dracula-javadoc8.css")
     options.addStringOption('Xdoclint:none', '-quiet')
     
     options.destinationDirectory = new File(projectDir, "/docs/jdk8")
